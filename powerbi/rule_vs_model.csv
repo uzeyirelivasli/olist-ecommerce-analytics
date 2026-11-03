@@ -1,0 +1,4 @@
+method,orders_flagged,bad_review_rate,share_of_bad_reviews_found
+Simple rule: several items or sellers,1750,0.23485714285714285,0.22807991120976692
+Model: riskiest 10%,1852,0.19978401727861772,0.20532741398446172
+Model: riskiest 20%,3704,0.15928725701943844,0.3274139844617092

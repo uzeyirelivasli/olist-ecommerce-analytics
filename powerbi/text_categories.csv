@@ -1,0 +1,8 @@
+category,on_time_orders,late_orders
+not_received,0.178,0.5656
+partial_delivery,0.2024,0.0339
+delay,0.0797,0.243
+carrier,0.024,0.0587
+product_problem,0.1414,0.0192
+wrong_item,0.0947,0.0164
+seller_or_service,0.1261,0.0667
